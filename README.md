@@ -25,6 +25,7 @@ Access the deployed web app using the generated URL.
 Enter your email address.
 Upload the desired legal document.
 The uploaded file will be stored in your Google Drive and its details recorded in the Google Sheet.
+### Make sure to allow cookies.
 
 ## How it Works:
 The web app collects user email and uploaded file.
