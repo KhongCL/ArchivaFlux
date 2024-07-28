@@ -4,7 +4,7 @@
 Disclaimer: This is a basic version of ArchivaFlux designed for demonstration purposes. It provides core functionalities for document upload, storage, and basic record-keeping.
 
 ## Create a Google Sheet:
-https://docs.google.com/spreadsheets/d/1Fkonmy7nJ_nxueovmaRSW1qViGQp-A_JFogwqPIrxIg/copy
+[https://docs.google.com/spreadsheets/d/1Fkonmy7nJ_nxueovmaRSW1qViGQp-A_JFogwqPIrxIg/copy](https://docs.google.com/spreadsheets/d/1Fkonmy7nJ_nxueovmaRSW1qViGQp-A_JFogwqPIrxIg/copy)
 
 Make a copy of the provided Google Sheet template to your google drive.
 
