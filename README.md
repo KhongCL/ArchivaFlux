@@ -3,12 +3,12 @@
 
 Disclaimer: This is a basic version of ArchivaFlux designed for demonstration purposes. It provides core functionalities for document upload, storage, and basic record-keeping.
 
-## Step1: Create a Google Sheet:
+## Step 1: Create a Google Sheet:
 [https://docs.google.com/spreadsheets/d/1Fkonmy7nJ_nxueovmaRSW1qViGQp-A_JFogwqPIrxIg/copy](https://docs.google.com/spreadsheets/d/1Fkonmy7nJ_nxueovmaRSW1qViGQp-A_JFogwqPIrxIg/copy)
 
 Make a copy of the provided Google Sheet template to your google drive.
 
-## Step2: Deploy the App Script:
+## Step 2: Deploy the App Script:
 Open the Google Sheet.
 
 Go to Extensions > Apps Script.
