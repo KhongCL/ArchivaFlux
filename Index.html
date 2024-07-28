@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base target="_top">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.js"></script>
+  <?!= include('JavaScript'); ?>
+  <style>
+    body {
+      background-color: #e0f7fa; /* Light blue background */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    h4, p, label {
+      color: #007bff; /* Bootstrap primary blue color */
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+      border-color: #007bff;
+    }
+
+    .btn-primary:hover {
+      background-color: #0056b3;
+      border-color: #004085;
+    }
+
+    .container {
+      border: 1px solid #007bff;
+      padding: 20px;
+      border-radius: 5px;
+      background-color: #fff; /* White background for the form container */
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-6">
+
+        <form id="myForm" onsubmit="handleFormSubmit(this)">
+          <p class="h4 mb-4 text-center">Legal Document Management System</p>
+
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+          </div>
+
+          <div class="form-group">
+            <label for="FormControlFile">Upload Files</label>
+            <input name="myFile" class="form-control-file" type="file" id="FormControlFile" />
+          </div>
+          <br>
+          <button type="submit" class="btn btn-primary btn-block">Submit</button>
+        </form>
+        <br>
+        <div id="output"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
