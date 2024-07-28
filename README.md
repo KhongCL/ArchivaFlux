@@ -5,6 +5,7 @@ Disclaimer: This is a basic version of ArchivaFlux designed for demonstration pu
 
 ## Create a Google Sheet:
 https://docs.google.com/spreadsheets/d/1Fkonmy7nJ_nxueovmaRSW1qViGQp-A_JFogwqPIrxIg/copy
+
 Make a copy of the provided Google Sheet template to your google drive.
 
 ## Deploy the App Script:
