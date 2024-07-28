@@ -4,8 +4,8 @@
  */
 
 
-var folderID = "15nRAW84flFAiuWcf6LvtvA477jSZVCG-"; 
-var sheetName = "Data"; 
+var folderID = "root"; //Replace the "root" with folder ID to upload files to a specific folder
+var sheetName = "Data"; //Replace the "Data" with your data sheet name
 
 function doGet() {
   return HtmlService.createTemplateFromFile('Index').evaluate();
