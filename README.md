@@ -1,5 +1,6 @@
 ﻿# ArchivaFlux: A Legal Document Management System
- 
+ ![image](https://github.com/user-attachments/assets/a48a1dbc-322c-4abf-85e7-9a576713134e)
+
 Disclaimer: This is a basic version of ArchivaFlux designed for demonstration purposes. It provides core functionalities for document upload, storage, and basic record-keeping.
 
 ## Create a Google Sheet:
