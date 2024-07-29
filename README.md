@@ -29,7 +29,17 @@ Who has access: Anyone
 
 Authorize the web app when prompted.
 
-Copy the deployed web app URL.
+Click Authorize access button.
+
+Chose an account (the email address you are currently working with).
+
+Go to the Advanced link at the bottom left.
+
+Then click the link name “Go to …Your file name…” link at the bottom.
+
+Click Allow button at the bottom right corner.
+
+Then you will have the URL to the web app at the bottom of the dialog box. Then Click on the URL to go to the web app.
 
 ## Step 3:Use the Web App:
 Access the deployed web app using the generated URL.
