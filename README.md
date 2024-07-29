@@ -40,7 +40,7 @@ Upload the desired legal document.
 
 The uploaded file will be stored in your Google Drive and its details recorded in the Google Sheet.
 
-### Make sure to allow cookies.
+### **Make sure to allow third party cookies. **
 
 ## How it Works:
 The web app collects user email and uploaded file.
